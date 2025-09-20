@@ -7,11 +7,8 @@ bcryptjs để mã hóa mật khẩu
 
 
 2.  Clone repository
+https://github.com/nDiem172/ https://github.com/nDiem172/Lab5_Part2.git.git
 
-    ```bash
-    git clone [https://github.com/nDiem172/22703261_PhamThiNgocDiem_Lab5_part2.git](https://github.com/nDiem172/22703261_PhamThiNgocDiem_Lab5_part2.git)
-    cd Lab5_Part1
-    ```
 
 ## Endpoints
 - /products
